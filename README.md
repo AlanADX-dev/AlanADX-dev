@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am passionate about IT, self-taught in web development, and C / C++ developer, looking for an end-of-course internship for the 42 Perpignan school.
 
+[![aandrieu's 42 stats](https://badge42.coday.fr/api/v2/cltg00lfb134801p4tubjksn5/stats?cursusId=21&coalitionId=316)](https://github.com/Coday-meric/badge42)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alan-Andrieux) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@alanadx-dev) 
